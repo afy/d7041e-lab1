@@ -4,6 +4,6 @@ Course: D7041E Applied A.I at LTU <br />
 Hand-in date: 1/12/2023 <br />
 
 # Authors
-Ahmad Allahham <br />
+Ahmad Allahham ahmall-0@student.ltu.se <br />
 Arian Asghari <br />
 Hannes Furhoff, hanfur-0@student.ltu.se <br />
